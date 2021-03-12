@@ -1,0 +1,11 @@
+.idea
+.DS_Store
+cmake-build-debug
+CMakeLists.txt
+a.out
+test.c
+libftprintf.a
+pft/
+main.c
+printf_lover_v2/
+bonus.c
